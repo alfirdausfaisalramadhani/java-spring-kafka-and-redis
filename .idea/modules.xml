@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/INFOSYS.iml" filepath="$PROJECT_DIR$/.idea/INFOSYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/history-service/history-service.iml" filepath="$PROJECT_DIR$/history-service/history-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-service/main-service.iml" filepath="$PROJECT_DIR$/main-service/main-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-common/module-common.iml" filepath="$PROJECT_DIR$/module-common/module-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-parent/module-parent.iml" filepath="$PROJECT_DIR$/module-parent/module-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-redis/module-redis.iml" filepath="$PROJECT_DIR$/module-redis/module-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-service/template-service.iml" filepath="$PROJECT_DIR$/template-service/template-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transfer-service/transfer-service.iml" filepath="$PROJECT_DIR$/transfer-service/transfer-service.iml" />
+    </modules>
+  </component>
+</project>
